@@ -1,7 +1,7 @@
 # Stelaris
 
 - see the page progres here 
-- [Github](https://carloscruzvalencia.github.io/Stelaris/)
+- [stelaris](https://carloscruzvalencia.github.io/Stelaris/)
 
 ## project preview
 <img src="preview.png">

@@ -1,13 +1,9 @@
-// function openMenu() {
-//     if ($(window).width() <= 768) {
-//         document.getElementById("menu-trigger").style.width = "60%";
-//     }
+function openMenu() {
+    document.getElementById("menu-eff").style.width = "100%";
+    document.getElementById("blur-eff").style.width = "100%";
 
-// }
+}
 
-// function closeMenu() {
-//     if ($(window).width() <= 768) {
-//         document.getElementById("menu-trigger").style.width = "0%";
-//     }
-
-// }
+function closeMenu() {
+    document.getElementById("menu-eff").style.width = "0%";
+}

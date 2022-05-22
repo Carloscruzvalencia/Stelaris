@@ -9,6 +9,7 @@
     margin-top: 2vh;
     margin-left: 2vw;
     cursor: pointer;
+    z-index: 1;
 }
 header{
     width: 100vw;
@@ -16,9 +17,31 @@ header{
     position: absolute;
     z-index: 1;
     nav{
+        display: grid;
         background-color: rgb(249, 249, 249);
         position: fixed;
         width: 50vw;
         height: 100vh;
+        ul{
+            display: grid;
+            height: 62vh;
+            align-self: center;
+            margin-left: 2vw;
+            font-size: 1.5vw;
+            font-weight: bold;
+            a{
+                text-decoration: none;
+                color: #000;
+                height: 3.5vh;
+                width: 44vw;
+                li{
+                    border-bottom: 2px black solid;
+                    width: 44vw;
+            }
+            }
+            a:hover{
+                background-color: #bebbbb;
+            }
+        }
     }
 }

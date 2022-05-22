@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/layouts/_landing.scss"],"names":[],"mappings":"AAAA,KACI","file":"main.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/base/_settings.scss","../sass/components/_menu.scss","../sass/layouts/_landing.scss"],"names":[],"mappings":"AAAA,KACI,WCDJ,SACI,eACA,UACA,gBACA,iBAEJ,IACI,sBACA,eCRJ,KACI","file":"main.css"}

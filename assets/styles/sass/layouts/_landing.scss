@@ -1,8 +1,32 @@
-.landing{
+.landing {
     width: 100vw;
     height: 100vh;
     overflow: hidden;
     background-image: url(../../media/img/wb-sections/landing/fondo.png);
     background-repeat: no-repeat;
     background-size: cover;
+    display: grid;
+
+    .img-logo {
+        justify-self: center;
+        align-self: center;
+    }
+
+    .wpg-content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        justify-items: center;
+        align-items: center;
+
+        .wpg-descriptiion {
+            display: grid;
+
+            h1 {
+                color: white;
+                justify-self: center;
+                align-self: center;
+                font-size: 4vw;
+            }
+        }
+    }
 }

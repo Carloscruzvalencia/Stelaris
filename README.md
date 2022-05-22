@@ -1,16 +1,45 @@
 # Stelaris
 
-- see the page progres here [stelaris](https://carloscruzvalencia.github.io/Stelaris/)
+- mira la pagina en el siguiente link: [stelaris](https://carloscruzvalencia.github.io/Stelaris/)
 
-## project preview
-<img src="preview.png">
+Diseño creado en <a href="https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1">figma</a> por Carlos cruz valencia
 
-## git update code
-```shell
-git add -A && git commit -a -m \"update\" && git push
-```
+## Links de interes
+<!-- link a correo -->
+<code> <a href="mailto:a2carcruzinfo@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
+<code><a a href="https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1"><img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a></code>
 
-## sass compiler code
-```shell
-sass -w --style compressed assets/styles/sass/main.scss assets/styles/css/main.css
-```
+## Tecnologias usadas
+IDE
+<!-- visual studio code -->
+<code><img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
+
+Otros programas usados
+<!-- figma -->
+<code><img height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code><!-- gitkraken -->
+<code><img height="30" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"></code>
+
+lenguajes/frameworks usados
+<!-- html -->
+<code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code><!-- css -->
+<code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img></code>
+<code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
+
+## Inpiracion del proyecto & objetivo
+El objetivo principal es recrear un menú con un efecto blur como se muestra en la previsualización 
+
+El proyecto esta inspirado en un post de Instagram de [the.webpage](https://www.instagram.com/the.website/?hl=es) creo que es quien lo a publicado
+
+
+## Estado del proyecto
+|             ESTADO                |             |
+| -------------------------- | :----------------: | 
+| TERMINADO           |          ✔️    |  
+
+## Vista previa del proyecto
+<img src="project-preview.gif" aling="center"></img>
+
+## Licencia
+Este proyecto está bajo la Licencia (MIT) - mira el archivo <a href="https://github.com/Carloscruzvalencia/Inventoras/blob/main/LICENSE.md">LICENSE.md</a>  para mas detalles

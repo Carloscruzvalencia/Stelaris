@@ -1,4 +1,6 @@
 # Stelaris
+## project preview
+<img src="preview.png">
 
 ## git update code
 ```shell

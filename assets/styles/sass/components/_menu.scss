@@ -21,10 +21,9 @@ header{
     transition: 0.5s ease-in-out;
     nav{
         display: grid;
-        background-color: #f9f9f98f;
+        background: linear-gradient(90deg, rgb(233 233 233) 0%, rgb(217 217 217 / 40%) 35%, rgb(221 221 221 / 14%) 100%);
         width: 50vw;
         height: 100vh;
-        // overflow: hidden;
         ul{
             display: grid;
             height: 62vh;

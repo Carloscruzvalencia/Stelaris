@@ -1,6 +1,6 @@
 function openMenu() {
     document.getElementById("menu-eff").style.width = "100%";
-    document.getElementById("blur-eff").style.filter = "blur(5px)";
+    document.getElementById("blur-eff").style.filter = "blur(3px)";
 
 }
 

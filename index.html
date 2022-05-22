@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,24 +8,40 @@
     <title>Stelaris</title>
     <link rel="stylesheet" href="assets/styles/css/main.css">
 </head>
+
 <body>
-    <img  class="op-menu" onclick="openMenu()" src="assets/media/img/components/menu.png" alt="">
+    <img class="op-menu" onclick="openMenu()" src="assets/media/img/components/menu.png" alt="">
     <header>
         <nav>
             <ul>
-                
-                <li>HOME</li>
-                <li>CONTACT</li>
-                <li>EXPLORE</li>
-                <li>MORE</li>
+                <img class="cl-menu" onclick="closeMenu()" src="assets/media/img/components/menu-black.png" alt="">
+                <a onclick="closeMenu()" href="">
+
+                    <li>HOME</li>
+                </a>
+                <a onclick="closeMenu()" href="">
+
+                    <li>CONTACT</li>
+                </a>
+                <a onclick="closeMenu()" href="">
+
+                    <li>EXPLORE</li>
+                </a>
+                <a onclick="closeMenu()" href="">
+
+                    <li>MORE</li>
+                </a>
             </ul>
         </nav>
     </header>
     <main>
         <section class="landing">
-            <img class="test" src="https://images.unsplash.com/photo-1609779361684-8196b3a0abf1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2l0dGluZyUyMGNhdHxlbnwwfHwwfHw%3D&w=1000&q=80" alt="">
+            <img class="test"
+                src="https://images.unsplash.com/photo-1609779361684-8196b3a0abf1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2l0dGluZyUyMGNhdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+                alt="">
         </section>
     </main>
     <script src="assets/js/app.js"></script>
 </body>
+
 </html>

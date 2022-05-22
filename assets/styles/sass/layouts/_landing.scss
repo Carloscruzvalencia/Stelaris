@@ -27,7 +27,8 @@
                 align-self: center;
                 font-size: 4vw;
             }
-            p{
+
+            p {
                 color: #fff;
                 justify-self: center;
                 align-self: center;
@@ -37,22 +38,28 @@
             }
         }
     }
-    .wpg-notes{
+
+    .wpg-notes {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         justify-items: center;
-        div{
+        transition: 1s ease-in-out;
+        .notes {
             display: grid;
-            background: linear-gradient(90deg, rgb(129 129 129 / 38%) 14%, rgb(217 217 217 / 35%) 35%, rgb(221 221 221 / 74%) 100%);
+            background: linear-gradient(90deg, rgba(129, 129, 129, 0.38) 14%, rgba(217, 217, 217, 0.35) 35%, rgb(122 121 121 / 72%) 100%);
             width: 34vw;
-            color: white;
-            h2{
+            color: #fff;
+            border-right: 3px white solid;
+            padding: 1vh;
+            h2 {
                 justify-self: center;
             }
-            h3{
+
+            h3 {
                 justify-self: center;
             }
-            h4{
+
+            h4 {
                 justify-self: center;
             }
         }
